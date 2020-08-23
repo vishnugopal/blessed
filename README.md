@@ -6,7 +6,7 @@ A set of tools, software, and good things that I use and love. All primary gear 
 
 |                      |                                                                                    | Alternatives & Comments                                                                                  |
 | -------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| OS                   | [PopOS](https://popos.org/) for development & gaming                               | [macOS](https://apple.com/mac) for more general purpose tasks.                                           |
+| OS                   | [Pop!\_OS](https://popos.org/) for development & gaming                            | [macOS](https://apple.com/mac) for more general purpose tasks.                                           |
 | Mobile OS            | [iOS](https://apple.com/ios)                                                       |                                                                                                          |
 | VPN                  | [NordVPN](https://nordvpn.com)                                                     | [Mullvad](https://mullvad.net/en/) is probably better for privacy, but NordVPN has servers in India too. |
 | Programming Language | [TypeScript](https://www.typescriptlang.org/) for all general-purpose programming. | [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) for small standalone scripts.      |
