@@ -21,7 +21,7 @@ A set of tools, software, and good things that I use and love. All primary gear 
 | Keyboard | [Razer Blackwidow Tournament Edition](https://www.amazon.in/gp/product/B0756CLCMB/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) for programmng and gaming. |                                                                                |
 | Mouse    | [Logitech MX Master 3](https://www.amazon.in/gp/product/B07YXNDK6X/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1) for general-purpose use and gaming.       |                                                                                |
 | Gamepad  | [Xbox One Wireless Controller with Bluetooth](https://www.amazon.in/gp/product/B06X92RN9D/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)                    |                                                                                |
-| Webcam   | [Logitech 920 Pro](https://www.amazon.in/gp/product/B006JH8T3S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                                                |                                                                                |
+| Webcam   | [Logitech C920 Pro](https://www.amazon.in/gp/product/B006JH8T3S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                                               |                                                                                |
 
 ---
 
