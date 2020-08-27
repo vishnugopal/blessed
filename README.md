@@ -26,6 +26,7 @@ A set of tools, software, and good things that I use and love. All primary gear 
 | Gamepad        | [Xbox One Wireless Controller with Bluetooth](https://www.amazon.in/gp/product/B06X92RN9D/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)                    |                                                                                |
 | Webcam         | [Logitech C920 Pro](https://www.amazon.in/gp/product/B006JH8T3S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                                               |                                                                                |
 | eBook Hardware | [Kindle Paperwhite WiFi](https://www.amazon.in/gp/product/B00QJDOEAO/?ie=UTF8&ref_=topnav_storetab_kinc)                                                       |                                                                                |
+| Electric Kettle | [Kitchon KIKGL](https://www.amazon.in/gp/product/B07HP8777F/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) | |
 | Whiteboard | [AmazonBasics Magnetic Whiteboard](https://www.amazon.in/gp/product/B077TD1JRS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) | | 
 | Ballpoint Pen | [Pilot G-2](https://www.amazon.in/gp/product/B07H1GT2VS/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | |
 | Soft Bath Mat | [AmazonBasics Non-Slip Memory Foam Bath Mat](https://www.amazon.in/gp/product/B014QKLD0A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) | |
