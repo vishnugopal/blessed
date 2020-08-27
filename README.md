@@ -6,7 +6,7 @@ A set of tools, software, and good things that I use and love. All primary gear 
 
 |                      |                                                                                    | Alternatives & Comments                                                                                  |
 | -------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| OS                   | [Pop!\_OS](https://popos.org/) for development & gaming                            | [macOS](https://apple.com/mac) for more general purpose tasks.                                           |
+| OS                   | [Pop!\_OS](https://pop.system76.com/) for development & gaming                            | [macOS](https://apple.com/mac) for more general purpose tasks.                                           |
 | Mobile OS            | [iOS](https://apple.com/ios)                                                       |
 | Browser              | [Ungoogled Chromium](https://github.com/Eloston/ungoogled-chromium)                | [Safari](https://www.apple.com/safari/) when I'm on a Mac.                                               |
 | eBook Reader         | [Kindle](https://www.amazon.in/b?node=15813965031)                                 |                                                                                                          |
