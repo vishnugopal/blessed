@@ -27,6 +27,7 @@ A set of tools, software, and good things that I use and love. All primary gear 
 | Webcam         | [Logitech C920 Pro](https://www.amazon.in/gp/product/B006JH8T3S/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)                                               |                                                                                |
 | eBook Hardware | [Kindle Paperwhite WiFi](https://www.amazon.in/gp/product/B00QJDOEAO/?ie=UTF8&ref_=topnav_storetab_kinc)                                                       |                                                                                |
 | Whiteboard | [AmazonBasics Magnetic Whiteboard](https://www.amazon.in/gp/product/B077TD1JRS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) | | 
+| Ballpoint Pen | [Pilot G-2](https://www.amazon.in/gp/product/B07H1GT2VS/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | |
 
 ---
 
@@ -37,3 +38,4 @@ A set of tools, software, and good things that I use and love. All primary gear 
 | Tshirts | [March Tees](https://www.marchtee.com)                                                                                                                                 |                         |
 | Protein | [Optimium Nutrition](https://www.amazon.in/gp/product/B002DYIZH6/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | |
 | Weights | [Kettlebells](https://www.amazon.in/gp/product/B07GD8M6WL/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1), actual weight the max curl weight you can do with 1 hand. |                         |
+| Yoga Mat | [Nischala Darbha Grass and Neem Yoga Mat](https://www.amazon.in/gp/product/B07R794NQV/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1) | |
