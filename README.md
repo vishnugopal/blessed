@@ -28,6 +28,8 @@ A set of tools, software, and good things that I use and love. All primary gear 
 | eBook Hardware | [Kindle Paperwhite WiFi](https://www.amazon.in/gp/product/B00QJDOEAO/?ie=UTF8&ref_=topnav_storetab_kinc)                                                       |                                                                                |
 | Whiteboard | [AmazonBasics Magnetic Whiteboard](https://www.amazon.in/gp/product/B077TD1JRS/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) | | 
 | Ballpoint Pen | [Pilot G-2](https://www.amazon.in/gp/product/B07H1GT2VS/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | |
+| Soft Bath Mat | [AmazonBasics Non-Slip Memory Foam Bath Mat](https://www.amazon.in/gp/product/B014QKLD0A/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) | |
+| Vacuum Cleaner| [Dyson V7 Animal](https://www.amazon.in/gp/product/B078T61HDJ/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) | |
 
 ---
 
